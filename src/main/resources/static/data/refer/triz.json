@@ -1,0 +1,71 @@
+{
+  "name": "TRIZ",
+  "children": [
+    {
+      "name": "定义阶段",
+      "children": [
+        {"name": "BSC"},
+        {"name": "MPV分析"},
+        {"name": "Kano模型"},
+        {"name": "帕累托图"},
+        {"name": "ARIMA统计工具"},
+        {"name": "甘特图"},
+        {"name": "SIPOC"}
+      ]
+    },
+    {
+      "name": "分析阶段",
+      "children": [
+        {"name": "系统分析"},
+        {"name": "公里化设计"},
+        {"name": "IFR分析"},
+        {"name": "组件价值分析"},
+        {"name": "剪裁法"},
+        {"name": "试错法"},
+        {"name": "头脑风暴法"},
+        {"name": "小人法"},
+        {"name": "金鱼法"},
+        {"name": "鱼骨图"},
+        {"name": "5W1H"},
+        {"name": "FMEA"},
+        {"name": "AFD"},
+        {"name": "多屏幕法"},
+        {"name": "假设检验"},
+        {"name": "方差检验"},
+        {"name": "线性回归"},
+        {"name": "技术矛盾"},
+        {"name": "创新原理"},
+        {"name": "物理矛盾"},
+        {"name": "物场分析"},
+        {"name": "76个标准解"},
+        {"name": "ARIZ"},
+        {"name": "系统裁剪设计"},
+        {"name": "知识库"},
+        {"name": "科学效应库"},
+        {"name": "故障树"}
+      ]
+    },
+    {
+      "name": "优化阶段",
+      "children": [
+        {"name": "S曲线"},
+        {"name": "层次分析法"},
+        {"name": "进化法则"},
+        {"name": "PUGH矩阵"}
+      ]
+    },
+    {
+      "name": "验证节点",
+      "children": [
+        {"name": "头脑风暴"},
+        {"name": "标杆管理"},
+        {"name": "响应曲面"},
+        {"name": "正交试验"},
+        {"name": "析因法"},
+        {"name": "FMEAs"},
+        {"name": "甘特图"},
+        {"name": "RACI"}
+      ]
+    }
+  ]
+}
